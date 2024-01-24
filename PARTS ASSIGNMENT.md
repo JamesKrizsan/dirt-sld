@@ -3,7 +3,7 @@ Parts + Assembly for WeMARS Science Team
 
 Write your name beside the part down below:
 
-Main Carousel - Howard
+Main Carousel - Howard W
 
 Drill Mechanism
 
@@ -18,5 +18,4 @@ Testing Station Valves + Nozzles (Need to Consult Science Team for amount + impl
 Carousel Lid (Offset drainage hole - look to main carousel for radius from center to test tube)
 
 THIS IS A TEST COMMIT FROM CHRIS LATO
-
-
+Howard wuz here
